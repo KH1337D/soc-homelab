@@ -1,0 +1,22 @@
+soc-homelab
+│
+├── README.md
+├── architecture
+│   └── soc-lab-diagram.png
+│
+├── setup
+│   ├── kali-setup.md
+│   ├── windows-target-setup.md
+│   └── siem-setup.md
+│
+├── attack-simulations
+│   ├── brute-force-attack.md
+│   ├── network-scan.md
+│   └── malware-execution.md
+│
+├── detections
+│   ├── failed-login-detection.md
+│   ├── suspicious-process.md
+│   └── network-scan-detection.md
+│
+└── screenshots
